@@ -1,8 +1,8 @@
 # Information
 Retarded Dev.
 <hr>
-Languages 
-c++ 
-JavaScript 
-Python 
+Languages <br> 
+C++ <br>
+JavaScript <br> 
+Python <br>
 
