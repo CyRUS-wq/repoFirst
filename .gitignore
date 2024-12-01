@@ -2,7 +2,7 @@
 *
 
 # Allow README.md
-!README.md
+!README.md and assets
 
 # Allow .gitignore itself
 !.gitignore
