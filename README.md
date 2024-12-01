@@ -10,7 +10,7 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 ### 📝 About Me
 - 🔭 I’m currently working on my life.
 - 🔍 I’m currently learning **C++**, **Web Dev**, **Assembly**, **Ghidra**, and **Python**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/YourGitHubUsername)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/CyRUS-wq)
 - 💬 For any queries: [Discord](https://discord.gg/Q9K5bFS8)
 - 📫 Mail: [here](arun3thakur11112@gmail.com@gmail.com)
 
