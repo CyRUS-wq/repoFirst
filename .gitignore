@@ -1,8 +1,8 @@
-# Ignore everything in the repository
+# Ignore everything
 *
 
 # Allow README.md
-!README.md and assets
+!README.md
 
-# Allow .gitignore itself
-!.gitignore
+# Allow assets folder and its contents
+!assets/
