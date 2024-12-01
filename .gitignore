@@ -1,8 +1,0 @@
-# Ignore everything
-*
-
-# Allow README.md
-!README.md
-
-# Allow assets folder and its contents
-!assets/
