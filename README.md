@@ -1,4 +1,6 @@
-![Banner](banner.gif)
+<p align="center">
+  <img src="banner.gif" alt="Banner" width="1000">
+</p>
 
 # I'm CyRUS  
 I am a **Front/Back-End Developer** and **Reverse Engineer**
@@ -25,13 +27,12 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 
 ---
 
-
-<p align="right">
+<p align="left">
   <img src="gojo.JPG" alt="Gojo Image" width="500">
 </p>
 
 ---
 
 ### 💬 Connect with Me:
-[![Discord](https://img.shields.io/badge/GitHub-YourUsername-lightgrey?logo=discord)](https://discord.gg/Q9K5bFS8)  
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](arun3thakur11112@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-YourUsername-lightgrey?logo=discord)](https://discord.gg/Q9K5bFS8)  
+[![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](mailto:arun3thakur11112@gmail.com)
