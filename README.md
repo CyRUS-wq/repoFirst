@@ -34,5 +34,5 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 ---
 
 ### 💬 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-YourUsername-lightgrey?logo=discord)](https://discord.gg/Q9K5bFS8)  
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](mailto:arun3thakur11112@gmail.com)
+[![Discord](https://img.shields.io/badge/Celestia-lightgrey?logo=discord)](https://discord.gg/Q9K5bFS8)  
+[![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](mailto:arun3thakur11112@gmail.com)
