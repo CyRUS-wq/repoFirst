@@ -31,7 +31,7 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 ---
 
 <p align="left">
-  <img src="assets/gojo.JPG" alt="Gojo Image" width="500">
+  <img src="gojo.JPG" alt="Gojo Image" width="500">
 </p>
 
 ---
